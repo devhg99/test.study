@@ -1,0 +1,10 @@
+# python==3.12
+
+# turtle
+pythonturtle==0.3.2 
+
+# pygame
+pygame==2.6.1
+
+# etc
+jupyter==1.1.1
